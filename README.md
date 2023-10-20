@@ -1,1 +1,1 @@
-# proyecto.peluqueria.pets
+# proyecto.peluqueria.io
